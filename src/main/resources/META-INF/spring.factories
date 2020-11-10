@@ -1,0 +1,5 @@
+# Environment Post Processors
+org.springframework.boot.env.EnvironmentPostProcessor=com.birdsnail.springboot.customconfig.processor.MysqlConfigEnvironmentPostProcessor
+
+
+
