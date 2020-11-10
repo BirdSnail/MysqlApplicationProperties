@@ -1,0 +1,3 @@
+# 将Mysql作为SpringBoot启动的配置源
+
+写这个的这主要目的是为加深SpringBoot的了解，实际上并没有什么卵用。
